@@ -1,0 +1,15 @@
+{
+  "name": "Radio Minimalista",
+  "short_name": "Radio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
